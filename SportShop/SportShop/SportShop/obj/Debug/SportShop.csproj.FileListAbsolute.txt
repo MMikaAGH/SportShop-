@@ -1,0 +1,368 @@
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\SportShop.dll.config
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\SportShop.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\SportShop.pdb
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csc.exe
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csc.exe.config
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csc.rsp
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csi.exe
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csi.exe.config
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\csi.rsp
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.AppContext.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Console.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\vbc.exe
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\vbc.exe.config
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\vbc.rsp
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Antlr3.Runtime.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\EntityFramework.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Newtonsoft.Json.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Helpers.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Mvc.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Optimization.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Razor.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\WebGrease.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\EntityFramework.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Helpers.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Mvc.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Optimization.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.Razor.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Newtonsoft.Json.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Antlr3.Runtime.pdb
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.dll
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.Migrations.First.resources
+C:\Users\Sornat\Documents\Materiały na studia\I rok IiE\II rok\IV semestr\Techniki internetowe\Projekt\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\SportShop.dll.config
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\SportShop.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\SportShop.pdb
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csc.exe
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csc.exe.config
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csc.rsp
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csi.exe
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csi.exe.config
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\csi.rsp
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.AppContext.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Console.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe.config
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\vbc.rsp
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\EntityFramework.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Helpers.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Mvc.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Optimization.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Razor.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\WebGrease.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\EntityFramework.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Helpers.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Mvc.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Optimization.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.Razor.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.pdb
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.Migrations.First.resources
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.dll
+C:\Users\Marcin\Desktop\SportShop\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\SportShop.dll.config
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\SportShop.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\SportShop.pdb
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csc.exe
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csc.exe.config
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csc.rsp
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csi.exe
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csi.exe.config
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\csi.rsp
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.AppContext.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Console.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe.config
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\vbc.rsp
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\EntityFramework.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Helpers.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Mvc.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Optimization.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Razor.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\WebGrease.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\EntityFramework.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Helpers.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Mvc.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Optimization.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.Razor.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.pdb
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.Migrations.First.resources
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.dll
+C:\Users\Sornat\Downloads\SportShop\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\SportShop.dll.config
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\SportShop.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\SportShop.pdb
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csc.exe
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csc.exe.config
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csc.rsp
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csi.exe
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csi.exe.config
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\csi.rsp
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.AppContext.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Console.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Http.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\vbc.exe.config
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\vbc.rsp
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\EntityFramework.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Helpers.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Mvc.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Optimization.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Razor.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\WebGrease.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\EntityFramework.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Helpers.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Mvc.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Optimization.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.Razor.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Newtonsoft.Json.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Antlr3.Runtime.pdb
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.Migrations.First.resources
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.dll
+C:\Users\Marcin\Desktop\SportShop (2)\SportShop\SportShop\SportShop\obj\Debug\SportShop.pdb
